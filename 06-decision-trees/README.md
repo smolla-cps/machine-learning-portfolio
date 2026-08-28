@@ -2,7 +2,7 @@
 
 This portfolio section develops decision trees from their information-theoretic foundations through classification, regression, overfitting analysis, randomized trees, and ensemble comparison.
 
-All distinct technical content represented in the supplied source notebooks is retained. Repeated copies of the same material are consolidated, while code originally placed under classroom-style headings is preserved and presented under professional technical headings.
+
 
 ## Repository Structure
 
